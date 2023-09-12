@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Unit 2 Project
-//
-//  Created by Ky on 9/11/23.
-//
-
 import UIKit
 
 @main
