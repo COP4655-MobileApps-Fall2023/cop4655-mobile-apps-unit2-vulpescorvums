@@ -2,7 +2,7 @@
 
 Submitted by: **Kyler Mallonn**
 
-**Unit 2 Project** is a movie browsing app that allows you to view a movie's poster, title, populatiry statistics, and read a short summary using [The Movie Databade API.](https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed)
+**Unit 2 Project** is a movie browsing app that allows you to view a movie's poster, title, populatiry statistics, and read a short summary using [The Movie Database API.](https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed)
 
 Time spent: **7** hours spent in total
 
