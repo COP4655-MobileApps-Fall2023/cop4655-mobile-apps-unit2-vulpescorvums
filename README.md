@@ -2,23 +2,23 @@
 
 Submitted by: **Kyler Mallonn**
 
-**Name of your app** is a movie browsing app that... [TODO] 
+**Unit 2 Project** is a movie browsing app that allows you to view a movie's poster, title, populatiry statistics, and read a short summary using [The Movie Databade API.](https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed)
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are able to see a customized app icon and launch screen
-- [ ] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
-- [ ] Displays at least 5 different movies in a table view
-- [ ] Can tap into detail view of movie with a full description, backdrop image, and title
+- [x] Users are able to see a customized app icon and launch screen
+- [x] Your app should work for any screen size and orientation using AutoLayout constraints
+  - [x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
+- [x] Displays at least 5 different movies in a table view
+- [x] Can tap into detail view of movie with a full description, backdrop image, and title
  
 The following **optional** features are implemented:
 
-- [ ] Unique UI changes, such as background, font/color changes, etc.
+- [x] Unique UI changes, such as background, font/color changes, etc.
 - [ ] User implements a collection view
 - [ ] User implemenets tab bar controller with at least two screens
 
@@ -26,15 +26,19 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+## Video Playthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/66872b4bca1a4e35b3fd1c3178aa2a37">
+    </a>
+    <a href="https://www.loom.com/share/66872b4bca1a4e35b3fd1c3178aa2a37">
+      <img style="max-width:300px;" src="null">
+    </a>
+  </div>
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Was not able to change "view" background color to black for an unknown reason.
 
 ## License
 
