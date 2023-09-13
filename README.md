@@ -32,7 +32,7 @@ The following **additional** features are implemented:
     <a href="https://www.loom.com/share/66872b4bca1a4e35b3fd1c3178aa2a37">
     </a>
     <a href="https://www.loom.com/share/66872b4bca1a4e35b3fd1c3178aa2a37">
-      <img style="max-width:300px;" src="null">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/66872b4bca1a4e35b3fd1c3178aa2a37-with-play.gif">
     </a>
   </div>
 
